@@ -1,1 +1,1 @@
-import 'app/micro_app_login_resolver.dart';
+import 'package:micro_app_login/app/micro_app_login_resolver.dart';
